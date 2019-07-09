@@ -254,7 +254,7 @@ of the Haskell runtime.
 **Propaganda:**
 
 * [Fighting spam with Haskell - Haskell in production, at scale, at Facebook](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
-* [IMVU Engineering - What it's like to use Haskell](http://engineering.imvu.com/2014/03/24/what-its-like-to-use-haskell/)
+* IMVU Engineering - What it's like to use Haskell
 * [Haskell-based Bicycle Parking Guidance System in Utrecht](https://www.reddit.com/r/haskell/comments/3959r0/haskellbased_bicycle_parking_guidance_system_in/)
 * [Mio: A High-Performance Multicore IO Manager for GHC](http://haskell.cs.yale.edu/wp-content/uploads/2013/08/hask035-voellmy.pdf)
 * [The Performance of Open Source Applications - Warp](http://www.aosabook.org/en/posa/warp.html)
